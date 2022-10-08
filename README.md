@@ -1,8 +1,10 @@
 # 1025-Hours-Mandarin-Strong-Accent-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1003
+
 
 ## Description
 More than 2,000 Chinese native speakers participated in the recording with equal gender. Speakers are mainly from the southern China, and some of them are from the provinces of northern China with Strong accents. The recording content is rich, covering mobile phone voice assistant interaction, smart home command and control, In-car command and control, numbers and other fields, which is accurately matching the smart home, intelligent car and other practical application scenarios.
+
+For more details, please refer to the link: https://bit.ly/3SeiNGO
 
 ## Format
 mobile phone, 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ Strong Accented Mandarin
 
 ## Application scene
 speech recognition, machine translation; voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
