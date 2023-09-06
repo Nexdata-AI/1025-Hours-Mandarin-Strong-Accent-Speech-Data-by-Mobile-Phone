@@ -4,7 +4,8 @@
 ## Description
 More than 2,000 Chinese native speakers participated in the recording with equal gender. Speakers are mainly from the southern China, and some of them are from the provinces of northern China with Strong accents. The recording content is rich, covering mobile phone voice assistant interaction, smart home command and control, In-car command and control, numbers and other fields, which is accurately matching the smart home, intelligent car and other practical application scenarios.
 
-For more details, please refer to the link: https://bit.ly/3SeiNGO
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1003?source=Github
+
 
 ## Format
 mobile phone, 16kHz, 16bit, uncompressed wav, mono channel
